@@ -1,0 +1,16 @@
+{
+  "name": "opex-api",
+  "description": "Package for Opex api call",
+  "version": "1.0.0-beta2",
+  "author": "Opex",
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "axios": "^0.22.0"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "moment": "^2.29.4"
+  },
+  "packageManager": "yarn@3.2.2"
+}
